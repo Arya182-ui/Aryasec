@@ -46,8 +46,8 @@ Stay informed with the latest cybersecurity research and threat intelligence
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd security-tools-dashboard
+git clone https://github.com/Arya182-ui/Aryasec.git
+cd Aryasec
 ```
 
 2. Install dependencies:
